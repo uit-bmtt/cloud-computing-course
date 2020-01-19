@@ -18,6 +18,10 @@ Cloud Computing implies scalable services and the consolidation of compute and s
 
 In this course, the fundamentals of Cloud Computing and related technologies are discussed. Practical exercises are an important part of this course because they are essential for thee understanding of these technologies.
 
+**Book**:
+
+[CLOUDS] *Cloud Computing: Web-Based Dynamic IT Services*, which was published in 2011 by Springer. ISBN: 978-3-642-20916-1
+
 <a  name="schedule"></a>
 ### 2. Schedule
 

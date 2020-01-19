@@ -39,13 +39,13 @@ PLEASE READING CAREFULLY [THE REQUIREMENTS FOR PROJECTS](resourses/projects/proj
 #### 3.1 Project list
 | Name | Description
 |---| ---|
-| OpenFaaS | [Documentation](resourses/projects/OpenFaaS_Installation_Guide.pdf)
-| OpenNebula | [Documentation](resourses/projects/OpenNebulaGuide.pdf)
-| Apache OpenWhisk |
-|  AppScale |
-|  Eucalyptus |
-|   Apache CloudStack |
-|   OpenStack |
+| OpenFaaS | [Documentation](resourses/projects/OpenFaaS_Installation_Guide.pdf), [Project](https://www.openfaas.com/), [Code](https://github.com/openfaas/faas)
+| OpenNebula | [Documentation](resourses/projects/OpenNebulaGuide.pdf), [Project](https://opennebula.org/), [Code](https://github.com/OpenNebula/one)
+| Apache OpenWhisk |[Project](https://openwhisk.apache.org/), [Code](https://github.com/apache/openwhisk)
+|  AppScale |[Project](https://www.appscale.com/), [Code](https://github.com/AppScale/appscale)
+|  Eucalyptus |[Project](https://www.eucalyptus.cloud/), [Code](https://github.com/corymbia/eucalyptus)
+|   Apache CloudStack |[Project](https://cloudstack.apache.org/), [Code](https://github.com/apache/cloudstack)
+|   OpenStack |[Project](https://www.openstack.org/), [Code](https://github.com/openstack)
 
 #### 3.2 Homework:
 The exercises will be update after each class.

@@ -1,7 +1,7 @@
 ![enter image description here](https://www.uit.edu.vn/sites/vi/files/banner.png)
 
-# Cloud Computing Course - Spring 2020
-In this course, the fundamentals of Cloud Computing and related technologies are discussed. Practical exercises are an important part of this course because they are essential for thee understanding of these technologies.
+# Distributed System Course - Spring 2020
+In this course, the fundamentals of Distributed System and related technologies are discussed. Practical exercises are an important part of this course because they are essential for thee understanding of these technologies.
 
 ## Table of contents:
 1.  [ Course Description. ](#desc)
@@ -16,7 +16,7 @@ A distributed system consists of several independent computers that communicate 
 
 Cloud Computing implies scalable services and the consolidation of compute and storage resources in large-scale resource centers. This consolidation offers the opportunity to redistribute resources, which have been used so far to keep the own resources running. At the same time, the users of a Cloud infrastructure services have the freedom to use their desired operating systems, programming languages ​​and applications.
 
-In this course, the fundamentals of Cloud Computing and related technologies are discussed. Practical exercises are an important part of this course because they are essential for thee understanding of these technologies.
+In this course, the fundamentals of Distributed System, Cloud Computing and related technologies are discussed. Practical exercises are an important part of this course because they are essential for thee understanding of these technologies.
 
 **Book**:
 
@@ -31,7 +31,7 @@ In this course, the fundamentals of Cloud Computing and related technologies are
 | 3 + 4  | Cluster Computing, FaaS, Container, OpenFaaS and OpenWhisk |[pdf](resourses/slides/slideset_02.pdf), [pdf](resourses/slides/Function_as_a_Service.pdf)| Exercise 1|
 | 5 + 6  | Cloud Computing, Services and Concepts, Opportunities and Risks |[pdf](resourses/slides/slideset_03.pdf)| Exercise 2|
 | 7 + 8  | Amazon Web Services (EC2, EBS, ELB, S3), Google Cloud Storage |[pdf](resourses/slides/slideset_04.pdf)| Exercise 3|
-| 9  | Platform Services (Google App Engine) |[pdf](resourses/slides/slideset_05.pdf)| Midterm Project Presentation|
+| 9  | Hadoop, Platform Services (Google App Engine) |[pdf](resourses/slides/slideset_05.pdf)| Midterm Project Presentation|
 | 10  | Private Infrastructure Services (IaaS), Private Platform Services (PaaS) |[pdf](resourses/slides/slideset_06.pdf)| Exercise 4|
 | 11  | OpenShift, Docker and Kubernetes |[pdf](resourses/slides/OpenShift_slide.pdf)| Exercise 5|
 | 12-14  | Student Presentation || |

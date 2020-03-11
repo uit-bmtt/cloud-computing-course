@@ -38,7 +38,7 @@ In this course, the fundamentals of Distributed System, Cloud Computing and rela
 
 <a  name="grades"></a>
 ### 3. Project & Homework
-PLEASE READING CAREFULLY [THE REQUIREMENTS FOR PROJECTS](resourses/projects/project-2.md).
+PLEASE READING CAREFULLY [THE REQUIREMENTS FOR PROJECTS](resources/projects/project-2.md).
 
 #### 3.1 Project list
 | Name | Description

@@ -27,13 +27,13 @@ In this course, the fundamentals of Distributed System, Cloud Computing and rela
 
 |  Week | Topic | Notes | Assigment
 |---|---|---|---|
-| 1 + 2  | Course introduction, Organisational information, Client-Server, Fundamentals, Laws and Limitations, Parallel Computers |[pdf](resourses/slides/slideset_01.pdf)| Group + Project Assigment|
-| 3 + 4  | Cluster Computing, FaaS, Container, OpenFaaS and OpenWhisk |[pdf](resourses/slides/slideset_02.pdf), [pdf](resourses/slides/Function_as_a_Service.pdf)| Exercise 1|
-| 5 + 6  | Cloud Computing, Services and Concepts, Opportunities and Risks |[pdf](resourses/slides/slideset_03.pdf)| Exercise 2|
-| 7 + 8  | Amazon Web Services (EC2, EBS, ELB, S3), Google Cloud Storage |[pdf](resourses/slides/slideset_04.pdf)| Exercise 3|
-| 9  | Hadoop, Platform Services (Google App Engine) |[pdf](resourses/slides/slideset_05.pdf)| Midterm Project Presentation|
-| 10  | Private Infrastructure Services (IaaS), Private Platform Services (PaaS) |[pdf](resourses/slides/slideset_06.pdf)| Exercise 4|
-| 11  | OpenShift, Docker and Kubernetes |[pdf](resourses/slides/OpenShift_slide.pdf)| Exercise 5|
+| 1 + 2  | Course introduction, Organisational information, Client-Server, Fundamentals, Laws and Limitations, Parallel Computers |[pdf](resources/slides/slideset_01.pdf)| Group + Project Assigment|
+| 3 + 4  | Cluster Computing, FaaS, Container, OpenFaaS and OpenWhisk |[pdf](resources/slides/slideset_02.pdf), [pdf](resources/slides/Function_as_a_Service.pdf)| Exercise 1|
+| 5 + 6  | Cloud Computing, Services and Concepts, Opportunities and Risks |[pdf](resources/slides/slideset_03.pdf)| Exercise 2|
+| 7 + 8  | Amazon Web Services (EC2, EBS, ELB, S3), Google Cloud Storage |[pdf](resources/slides/slideset_04.pdf)| Exercise 3|
+| 9  | Hadoop, Platform Services (Google App Engine) |[pdf](resources/slides/slideset_05.pdf)| Midterm Project Presentation|
+| 10  | Private Infrastructure Services (IaaS), Private Platform Services (PaaS) |[pdf](resources/slides/slideset_06.pdf)| Exercise 4|
+| 11  | OpenShift, Docker and Kubernetes |[pdf](resources/slides/OpenShift_slide.pdf)| Exercise 5|
 | 12-14  | Student Presentation || |
 
 <a  name="grades"></a>
@@ -43,8 +43,8 @@ PLEASE READING CAREFULLY [THE REQUIREMENTS FOR PROJECTS](resources/projects/proj
 #### 3.1 Project list
 | Name | Description
 |---| ---|
-| OpenFaaS | [Documentation](resourses/projects/OpenFaaS_Installation_Guide.pdf), [Project](https://www.openfaas.com/), [Code](https://github.com/openfaas/faas)
-| OpenNebula | [Documentation](resourses/projects/OpenNebulaGuide.pdf), [Project](https://opennebula.org/), [Code](https://github.com/OpenNebula/one)
+| OpenFaaS | [Documentation](resources/projects/OpenFaaS_Installation_Guide.pdf), [Project](https://www.openfaas.com/), [Code](https://github.com/openfaas/faas)
+| OpenNebula | [Documentation](resources/projects/OpenNebulaGuide.pdf), [Project](https://opennebula.org/), [Code](https://github.com/OpenNebula/one)
 | Apache OpenWhisk |[Project](https://openwhisk.apache.org/), [Code](https://github.com/apache/openwhisk)
 |  AppScale |[Project](https://www.appscale.com/), [Code](https://github.com/AppScale/appscale)
 |  Eucalyptus |[Project](https://www.eucalyptus.cloud/), [Code](https://github.com/corymbia/eucalyptus)

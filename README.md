@@ -68,6 +68,6 @@ The exercises will be update after each class.
 ### 4. Grades
 **Grading Policy:** There will be periodic homeworks, projects, quizzes, research reading and final exam. The tentative weights are as follows:
  - [ ] Lab - 20%
- - [ ] Homeworks + Quizzes - 10%
+ - [ ] Attendance - 10%
  - [ ] Projects - 20%
  - [ ] Final - 50%
